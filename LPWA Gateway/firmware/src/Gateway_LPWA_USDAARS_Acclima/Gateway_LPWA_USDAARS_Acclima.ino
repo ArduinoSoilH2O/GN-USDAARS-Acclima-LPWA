@@ -1,5 +1,5 @@
 
-/*SRE Cellular Gateway - LPWA module
+/*Cellular Gateway - LPWA module
 
    Main Components:
       - ATMega1284P with MoteinoMEGA core

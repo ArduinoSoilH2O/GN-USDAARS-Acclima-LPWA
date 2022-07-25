@@ -1,4 +1,4 @@
-/*SRE Node for use with Cellular Gateway
+/*Node for use with Cellular Gateway
 
     Main Components:
       - ATMega1284P with MoteinoMEGA core
